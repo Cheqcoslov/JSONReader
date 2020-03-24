@@ -9,3 +9,5 @@ so they must press the button to be able to refresh the data in the table.
 
 
 Json directory: ...\JSONReader-master\Compiled\JSONReader_Data\StreamingAssets
+
+Using Unity 2019.3.5f1
