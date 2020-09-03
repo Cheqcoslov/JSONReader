@@ -1,5 +1,4 @@
 # JSONReader
-Programming Challenge for developer position
 
 With this program you can view a list of users with their data, 
 there are two different options on how to refresh the data, 
